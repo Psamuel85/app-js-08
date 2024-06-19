@@ -1,0 +1,25 @@
+.bi {
+	vertical-align: -.125em;
+	fill: currentColor;
+  }
+
+  .bd-mode-toggle {
+	z-index: 1500;
+  }
+
+  .bd-mode-toggle .dropdown-menu .active .bi {
+	display: block !important;
+  }
+  .text-c{
+    background: linear-gradient(#ece914,#0ad465);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    text-align: center;
+  }
+  .bg-1{
+    border-radius: 10px;
+    background: linear-gradient(#ece914,#0ad465);
+    height: 45px;
+  }
+
